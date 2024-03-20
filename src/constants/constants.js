@@ -1,77 +1,67 @@
 export const options = [
     {
-        label: 'Option 1',
-        value: 'option-1',
-        image: 'https://dummyimage.com/100x100/000/fff&text=A'
+        label: 'Jira',
+        value: 'jira',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-jira-3628861-3030001.png?f=webp&w=256'
     },
     {
-        label: 'Option 2',
-        value: 'option-2',
-        image: 'https://dummyimage.com/100x100/000/fff&text=B'
+        label: 'Slack',
+        value: 'slack',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-slack-1425877-1205068.png?f=webp&w=256'
     },
     {
-        label: 'Option 3',
-        value: 'option-3',
-        image: 'https://dummyimage.com/100x100/000/fff&text=C'
+        label: 'Notion',
+        value: 'notion',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-notion-7662471-6297457.png?f=webp&w=256'
     },
     {
-        label: 'Option 4',
-        value: 'option-4',
-        image: 'https://dummyimage.com/100x100/000/fff&text=D'
+        label: 'Azure',
+        value: 'azure',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-azure-1868965-1583129.png?f=webp&w=256'
     },
     {
-        label: 'Option 5',
-        value: 'option-5',
-        image: 'https://dummyimage.com/100x100/000/fff&text=E'
+        label: 'Microsoft Teams',
+        value: 'ms-teams',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-teams-1-1174823.png?f=webp&w=256'
     },
     {
-        label: 'Option 6',
-        value: 'option-6',
-        image: 'https://dummyimage.com/100x100/000/fff&text=F'
+        label: 'Zoom',
+        value: 'zoom',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-zoom-2295978-1911937.png?f=webp&w=256'
     },
     {
-        label: 'Option 7',
-        value: 'option-7',
-        image: 'https://dummyimage.com/100x100/000/fff&text=G'
+        label: 'Docker',
+        value: 'docker',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-docker-11-1175228.png?f=webp&w=256'
     },
     {
-        label: 'Option 8',
-        value: 'option-8',
-        image: 'https://dummyimage.com/100x100/000/fff&text=H'
+        label: 'Jenkins',
+        value: 'jenkins',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-jenkins-1430835-1210816.png?f=webp&w=256'
     },
     {
-        label: 'Option 9',
-        value: 'option-9',
-        image: 'https://dummyimage.com/100x100/000/fff&text=I'
+        label: 'Figma',
+        value: 'figma',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=256'
     },
     {
-        label: 'Option 10',
-        value: 'option-10',
-        image: 'https://dummyimage.com/100x100/000/fff&text=J'
+        label: 'VS Code',
+        value: 'vs-code',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-vscode-4069952-3365471.png?f=webp&w=256'
     },
     {
-        label: 'Option 11',
-        value: 'option-11',
-        image: 'https://dummyimage.com/100x100/000/fff&text=K'
+        label: 'Shopify',
+        value: 'shopify',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-shopify-226579.png?f=webp&w=256'
     },
     {
-        label: 'Option 12',
-        value: 'option-12',
-        image: 'https://dummyimage.com/100x100/000/fff&text=L'
+        label: 'Bitbucket',
+        value: 'bitbucket',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-bitbucket-3628654-3029879.png?f=webp&w=256'
     },
     {
-        label: 'Option 13',
-        value: 'option-13',
-        image: 'https://dummyimage.com/100x100/000/fff&text=M'
-    },
-    {
-        label: 'Option 14',
-        value: 'option-14',
-        image: 'https://dummyimage.com/100x100/000/fff&text=N'
-    },
-    {
-        label: 'Option 15',
-        value: 'option-15',
-        image: 'https://dummyimage.com/100x100/000/fff&text=O'
+        label: 'Github',
+        value: 'github',
+        image: 'https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=256'
     }
 ]
