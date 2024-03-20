@@ -1,0 +1,63 @@
+.handler-wrapper {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .step-badge {
+        width: fit-content;
+        background-image: linear-gradient(to top right, rgb(0, 162, 255), rgb(223, 1, 223));
+        border-radius: 10%;
+        color: white;
+        padding: 5px;
+        margin-bottom: 35px;
+    }
+
+    .handler-heading {
+        font-weight: bolder;
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .handler-content {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .selector {
+        margin-bottom: 20px;
+
+        .option-wrapper {
+
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+            .option-logo {
+                height: 25px;
+                width: 25px;
+                border-radius: 50%;
+            }
+
+            .option-label {
+                font-weight: bolder;
+                margin-left: 10px;
+            }
+        }
+    }
+
+    .handler-next-button {
+        font-size: 20px;
+        background-color: rgb(0, 162, 255);
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        cursor: pointer;
+
+        &.disabled {
+            background-color: rgb(110, 110, 128);
+            cursor: not-allowed;
+        }
+    }
+}
