@@ -1,7 +1,8 @@
-##Product Page
+## Product Page 
+
 Basic products page, where you can add and remove products
 
-#Steps to run app
+# Steps to run app
 
 Step 1: Clone the git repository
 
